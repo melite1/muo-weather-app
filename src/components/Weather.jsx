@@ -8,8 +8,7 @@ import humidity_icon from '../assets/humidity.png'
 import rain_icon from '../assets/rain.png'
 import snow_icon from '../assets/snow.png'
 import wind_icon from '../assets/wind.png'
-
-
+  
 
 
 const Weather = () => {
@@ -34,6 +33,8 @@ const Weather = () => {
         "13d": snow_icon,
         "13n": snow_icon,
     }
+
+    
 
     const search = async (city) => {
         if(city === ""){
