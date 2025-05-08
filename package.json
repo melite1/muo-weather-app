@@ -1,5 +1,5 @@
 {
-  "name": "weather-app",
+  "name": "muo-weather-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,10 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "axios": "^1.9.0",
-=======
->>>>>>> 44098befc7ef777589fa1edb1862a3216ff49894
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
