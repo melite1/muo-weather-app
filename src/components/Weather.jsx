@@ -70,7 +70,7 @@ const Weather = () => {
     }
 
     useEffect (()=>{
-        search("Lagos");
+        search("Lago");
     },[])
 
 
